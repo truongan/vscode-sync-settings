@@ -1,0 +1,93 @@
+{
+
+
+
+    "git.autofetch": true,
+
+    "editor.fontFamily" : "Cascadia Code",
+    "editor.fontLigatures": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "telemetry.enableTelemetry": false,
+    "python.linting.pylintEnabled": false,
+    "[twig]": {},
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+
+
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -O2 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "c": "cd $dir && gcc -O2 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+    },
+    "materialTheme.fixIconsRunning": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "terminal.integrated.rendererType": "dom",
+    "window.titleBarStyle": "custom",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#388E3C",
+        "list.activeSelectionForeground": "#388E3C",
+        "list.inactiveSelectionForeground": "#388E3C",
+        "list.highlightForeground": "#388E3C",
+        "scrollbarSlider.activeBackground": "#388E3C50",
+        "editorSuggestWidget.highlightForeground": "#388E3C",
+        "textLink.foreground": "#388E3C",
+        "progressBar.background": "#388E3C",
+        "pickerGroup.foreground": "#388E3C",
+        "tab.activeBorder": "#388E3C",
+        "notificationLink.foreground": "#388E3C",
+        "editorWidget.resizeBorder": "#388E3C",
+        "editorWidget.border": "#388E3C",
+        "settings.modifiedItemIndicator": "#388E3C",
+        "settings.headerForeground": "#388E3C",
+        "panelTitle.activeBorder": "#388E3C",
+        "breadcrumb.activeSelectionForeground": "#388E3C",
+        "menu.selectionForeground": "#388E3C",
+        "menubar.selectionForeground": "#388E3C"
+    },
+    "materialTheme.accent": "Breaking Bad",
+    "sync.autoUpload": true,
+    "sync.gist": "906a3f3040663c8a0f89a6369c92a2b4",
+    "sync.autoDownload": true,
+    "terminal.external.linuxExec": "gnome-terminal",
+    "[php]": {},
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "sync.forceDownload": false,
+    "python.jediEnabled": false,
+    "files.associations": {
+        "*.txt": "plaintext"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "C_Cpp.updateChannel": "Insiders",
+    "C_Cpp.intelliSenseCacheSize": 0,
+    "[latex]": {},
+    "latex-workshop.view.pdf.viewer": "tab",
+    "gitlens.advanced.messages": {
+        "suppressFileNotUnderSourceControlWarning": true
+    },
+    "sync.forceUpload": true,
+    "editor.fontSize": 15,
+    "[html]": {},
+    "git.confirmSync": false,
+    "cSpell.enabled": true,
+    "cSpell.enableFiletypes": [
+        "html"
+    ]
+    ,
+
+    "colorize.languages": [
+        "javascript",
+        "ini",
+        "apacheconf"
+    ],
+    "explorer.confirmDelete": false,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "block-outline",
+    "texlab.server.autoDownload": true,
+    "editor.unicodeHighlight.nonBasicASCII": false
+}
