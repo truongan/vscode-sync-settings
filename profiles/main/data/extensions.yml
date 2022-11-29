@@ -1,6 +1,4 @@
-disabled:
-  - id: torn4dom4n.latex-support
-    uuid: 6edd1f7d-7d66-42ee-a32f-62c990bcfa19
+disabled: []
 enabled:
   - id: akamud.vscode-theme-onedark
     uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
@@ -88,5 +86,9 @@ enabled:
     uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: xdebug.php-debug
+    uuid: 044b4b31-2969-4af3-895d-855433b8b46d
   - id: zhuangtongfa.material-theme
     uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
+  - id: zokugun.cron-tasks
+    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
