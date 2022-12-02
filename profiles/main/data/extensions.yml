@@ -30,8 +30,6 @@ enabled:
     uuid: dffaf5a1-2219-434b-9d87-cb586fd59260
   - id: equinusocio.vsc-material-theme-icons
     uuid: 8c609a4f-268a-41fb-8fe6-b6fcd95e8113
-  - id: felixfbecker.php-debug
-    uuid: 044b4b31-2969-4af3-895d-855433b8b46d
   - id: felixfbecker.php-intellisense
     uuid: 5e69f001-f945-4c97-baf0-320d82a153b3
   - id: felixfbecker.php-pack
@@ -60,8 +58,6 @@ enabled:
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-toolsai.jupyter
-    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
   - id: ms-vscode.cpptools
     uuid: null
   - id: ms-vscode.sublime-keybindings
