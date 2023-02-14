@@ -36,6 +36,8 @@ enabled:
     uuid: 1a9300c9-36a6-44d1-9d09-ada3641b8727
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: franneck94.c-cpp-runner
+    uuid: 0f4eac03-b4ec-4a55-bce1-deb41fde32ab
   - id: hangxingliu.vscode-nginx-conf-hint
     uuid: c3d3e8fb-c61d-4edf-8fb8-32298bc763f9
   - id: HansUXdev.bootstrap5-snippets
@@ -78,6 +80,8 @@ enabled:
     uuid: 5178733e-4b02-4829-95c5-1ce970847c23
   - id: Tyriar.vscode-terminal-here
     uuid: 55066e9b-6d65-4803-97e2-33316bef79e8
+  - id: vadimcn.vscode-lldb
+    uuid: null
   - id: vscjava.vscode-java-debug
     uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
   - id: vscode-icons-team.vscode-icons

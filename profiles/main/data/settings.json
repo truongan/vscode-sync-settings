@@ -86,7 +86,7 @@
     ],
     "explorer.confirmDelete": false,
     "editor.cursorBlinking": "smooth",
-    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorStyle": "block-outline",
     "texlab.server.autoDownload": true,
     "editor.unicodeHighlight.nonBasicASCII": false
