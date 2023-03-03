@@ -89,5 +89,6 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorStyle": "block-outline",
     "texlab.server.autoDownload": true,
-    "editor.unicodeHighlight.nonBasicASCII": false
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false
 }
