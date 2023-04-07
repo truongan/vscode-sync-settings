@@ -1,4 +1,6 @@
-disabled: []
+disabled:
+  - id: torn4dom4n.latex-support
+    uuid: 6edd1f7d-7d66-42ee-a32f-62c990bcfa19
 enabled:
   - id: akamud.vscode-theme-onedark
     uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
@@ -18,6 +20,8 @@ enabled:
     uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
   - id: dracula-theme.theme-dracula
     uuid: 4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: efoerster.texlab
     uuid: a56bd446-3a54-4cd9-a83a-b386751d915c
   - id: enkia.tokyo-night
@@ -34,8 +38,6 @@ enabled:
     uuid: 1a9300c9-36a6-44d1-9d09-ada3641b8727
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
-  - id: franneck94.c-cpp-runner
-    uuid: 0f4eac03-b4ec-4a55-bce1-deb41fde32ab
   - id: hangxingliu.vscode-nginx-conf-hint
     uuid: c3d3e8fb-c61d-4edf-8fb8-32298bc763f9
   - id: HansUXdev.bootstrap5-snippets
@@ -72,14 +74,14 @@ enabled:
     uuid: e5fd2b56-1637-4d4f-8252-6c9d416f9a28
   - id: sainnhe.everforest
     uuid: 330982cd-dddd-4939-b9ad-656ce474b089
+  - id: sdras.night-owl
+    uuid: e58f546c-babc-455f-a265-ba40dbd140d4
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: teabyii.ayu
     uuid: 5178733e-4b02-4829-95c5-1ce970847c23
   - id: Tyriar.vscode-terminal-here
     uuid: 55066e9b-6d65-4803-97e2-33316bef79e8
-  - id: vadimcn.vscode-lldb
-    uuid: null
   - id: vscjava.vscode-java-debug
     uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
   - id: vscode-icons-team.vscode-icons

@@ -10,7 +10,7 @@
     "telemetry.enableTelemetry": false,
     "python.linting.pylintEnabled": false,
     "[twig]": {},
-    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.colorTheme": "Night Owl",
 
 
     "code-runner.executorMap": {
@@ -89,6 +89,5 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorStyle": "block-outline",
     "texlab.server.autoDownload": true,
-    "editor.unicodeHighlight.nonBasicASCII": false,
-    "terminal.integrated.enableMultiLinePasteWarning": false
+    "editor.unicodeHighlight.nonBasicASCII": false
 }
