@@ -1,6 +1,10 @@
 disabled:
   - id: torn4dom4n.latex-support
     uuid: 6edd1f7d-7d66-42ee-a32f-62c990bcfa19
+  - id: vadimcn.vscode-lldb
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: vadimcn.vscode-lldb
+    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: akamud.vscode-theme-onedark
     uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
