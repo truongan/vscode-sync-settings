@@ -1,10 +1,6 @@
 disabled:
   - id: torn4dom4n.latex-support
     uuid: 6edd1f7d-7d66-42ee-a32f-62c990bcfa19
-  - id: vadimcn.vscode-lldb
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: vadimcn.vscode-lldb
-    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: akamud.vscode-theme-onedark
     uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
@@ -12,14 +8,8 @@ enabled:
     uuid: ee33fd31-7bb4-4252-8368-fdd5bcd94cf8
   - id: arcticicestudio.nord-visual-studio-code
     uuid: 6f35c257-7fd5-4bc2-9cd1-01976589c17a
-  - id: austin.code-gnu-global
-    uuid: de611071-4d05-4903-821c-6878df63d4af
-  - id: cjhowe7.laravel-blade
-    uuid: 32aada6b-3cbf-4590-ab56-f2c4423d028f
   - id: codingyu.laravel-goto-view
     uuid: 0b86e0a5-d2ef-48d8-9a1a-73f96e65f26e
-  - id: dakara.transformer
-    uuid: e74697c7-82c2-42d0-9502-a19a602732df
   - id: donjayamanne.githistory
     uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
   - id: dracula-theme.theme-dracula
@@ -42,8 +32,6 @@ enabled:
     uuid: 1a9300c9-36a6-44d1-9d09-ada3641b8727
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
-  - id: hangxingliu.vscode-nginx-conf-hint
-    uuid: c3d3e8fb-c61d-4edf-8fb8-32298bc763f9
   - id: HansUXdev.bootstrap5-snippets
     uuid: 7c1e5cda-9dd0-4d91-b4b2-084269287757
   - id: HookyQR.beautify
@@ -56,16 +44,10 @@ enabled:
     uuid: fcf0848c-96b3-487a-a655-01aed955a594
   - id: kamikillerto.vscode-colorize
     uuid: 445ba381-f232-4150-9056-d790bd76d698
-  - id: karyfoundation.theme-karyfoundation-themes
-    uuid: a150991b-031b-457a-b823-ef4c45425a1b
-  - id: mariorodeghiero.vue-theme
-    uuid: 6b99015e-561b-4192-8b83-b2120a523567
   - id: mikestead.dotenv
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-vscode.cpptools
-    uuid: null
   - id: ms-vscode.sublime-keybindings
     uuid: 529697b9-b343-4b1c-ba2f-f5ef692132d4
   - id: onecentlin.laravel-blade
@@ -84,8 +66,8 @@ enabled:
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: teabyii.ayu
     uuid: 5178733e-4b02-4829-95c5-1ce970847c23
-  - id: Tyriar.vscode-terminal-here
-    uuid: 55066e9b-6d65-4803-97e2-33316bef79e8
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
   - id: vscjava.vscode-java-debug
     uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
   - id: vscode-icons-team.vscode-icons
