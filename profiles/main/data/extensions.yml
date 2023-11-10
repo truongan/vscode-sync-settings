@@ -67,7 +67,7 @@ enabled:
   - id: teabyii.ayu
     uuid: 5178733e-4b02-4829-95c5-1ce970847c23
   - id: vadimcn.vscode-lldb
-    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+    uuid: null
   - id: vscjava.vscode-java-debug
     uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
   - id: vscode-icons-team.vscode-icons
